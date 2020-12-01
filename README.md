@@ -9,3 +9,4 @@ Just like html-layout the original, each folder contains an image you need to re
   - be able to compare and contrast display block, inline-block, inline, and none
   - be able to compare and contrast overflow hidden, auto, scroll
   - understand and be able to use max/min-width and max/min-height
+  - 
